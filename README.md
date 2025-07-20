@@ -58,7 +58,7 @@ Puoi vedere tutti i comandi scrivendo `/kebab help` direttamente nel tuo server.
 #### Aggiunto sicurezza maggiore.
 Futuro
 
-###v1.9.6
+### v1.9.6
 #### ??? Server
 #### Hosting 24/7
 #### Altro...
